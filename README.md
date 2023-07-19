@@ -8,7 +8,7 @@
     <td><img  src="img/ss3.png"></td>
   </tr>
 </table> -->
-<p align='center'><img  src="img/ss1.png"></p>
+<p align='center'><img  src="ss1.png"></p>
 
 ## Implemented Algorithms:
 * Bubble Sort 
